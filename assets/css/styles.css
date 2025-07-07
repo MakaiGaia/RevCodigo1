@@ -93,13 +93,14 @@ input:not([type="checkbox"]):not([type="radio"]), textarea, select {
 .success {
   border: 1px solid red;
 }
-
+/*Adicción de p para su uso en el css con estilos y color*/
 h1,
 h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+p{
   color: white;
   margin-top: 0;
   line-height: 1;
